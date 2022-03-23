@@ -10,7 +10,7 @@
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
-  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw1E5_AJzwQDxJPtbem9nDjV&ust=1648142543084000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCJCm0cjf3PYCFQAAAAAdAAAAABAD" />
+  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
 
 
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
