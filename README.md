@@ -10,7 +10,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 
 
 <h2 align="left">
- 🦄 Linguagens:
+ 🦄 Stacks:
 </h2>
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8)](https://golang.org/)
