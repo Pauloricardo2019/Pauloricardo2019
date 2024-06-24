@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou Paranaense, tenho 23 anos e sou <strong>Desenvolvedor Back-End</strong>.
+  Sou Paranaense, tenho 24 anos e sou <strong>Desenvolvedor Back-End</strong>.
 
 Faz 3 anos que estou na área da programação, passei por 3 empresas diferentes e obtive conhecimentos absurdos, sou uma pessoa muito dedicada em tudo o que faço. Atualmente trabalho em uma fintech e estou cursando engenharia de software, estou empenhado em aprimorar minhas habilidades como desenvolvedor. 
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
