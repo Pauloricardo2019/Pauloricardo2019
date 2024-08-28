@@ -5,8 +5,7 @@
 <p align="left"> 
   Sou Paranaense, tenho 24 anos e sou <strong>Desenvolvedor Back-End</strong>.
 
-Faz 4 anos que estou na área da programação, passei por 3 empresas diferentes e obtive conhecimentos absurdos, sou uma pessoa muito dedicada em tudo o que faço. Atualmente trabalho em uma fintech e estou cursando engenharia de software, estou empenhado em aprimorar minhas habilidades como desenvolvedor. 
-Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
+Sou um profissional experiente em arquitetura de soluções e desenvolvimento de sistemas, focado em entregar integrações robustas e escaláveis. Tenho forte habilidade em análise de requisitos e criação de sistemas que garantem alta disponibilidade e segurança. Comprometido em fornecer soluções que atendam às necessidades corporativas com excelência e eficiência. Atualmente sou Software Engineer da Stone
 
 
 <h2 align="left">
