@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou Paranaense, tenho 24 anos e sou <strong>Desenvolvedor Back-End</strong>.
+  I'm 25y and I'm <strong>Desenvolvedor Back-End</strong>.
 
-Sou um profissional experiente em arquitetura de soluções e desenvolvimento de sistemas, focado em entregar integrações robustas e escaláveis. Tenho forte habilidade em análise de requisitos e criação de sistemas que garantem alta disponibilidade e segurança. Comprometido em fornecer soluções que atendam às necessidades corporativas com excelência e eficiência. Atualmente sou Software Engineer da Stone
+I'm an experienced professional in solution architecture and systems development, focused on delivering robust and scalable integrations. I have strong skills in requirements analysis and creating systems that guarantee high availability and security. Committed to providing solutions that meet corporate needs with excellence and efficiency. I am currently a Software Engineer at Stone
 
 
 <h2 align="left">
