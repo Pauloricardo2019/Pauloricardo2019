@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  I'm 25y and I'm <strong>Desenvolvedor Back-End</strong>.
+  I'm 26y and I'm <strong>Desenvolvedor Back-End</strong>.
 
-I'm an experienced professional in solution architecture and systems development, focused on delivering robust and scalable integrations. I have strong skills in requirements analysis and creating systems that guarantee high availability and security. Committed to providing solutions that meet corporate needs with excellence and efficiency. I am currently a Software Engineer at Stone
+I'm an experienced professional in solution architecture and systems development, focused on delivering robust and scalable integrations. I have strong skills in requirements analysis and creating systems that guarantee high availability and security. Committed to providing solutions that meet corporate needs with excellence and efficiency. I am currently a Software Engineer
 
 
 <h2 align="left">
